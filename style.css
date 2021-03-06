@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   list-style: none;
   box-sizing: border-box;
   background: #000;
@@ -62,7 +62,8 @@ section {
 }
 
 .text h1 {
-  font-family: "AlphaCentauri" !important;
+  font-family: "Seaweed Script", sans-serif;
+  
   font-size: 5vw;
   color: #fff;
   letter-spacing: 20px;
@@ -212,7 +213,7 @@ section {
 
 .slide-number p {
   font-size: 40px;
-  font-family: "AlphaCentauri" !important;
+  font-family: "Seaweed Script", sans-serif !important;
   color: #fff;
   position: relative;
 }
